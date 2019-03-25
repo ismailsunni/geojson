@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "qgis-versions",
+"features": [
+{ "type": "Feature", "properties": { "name": "Copiapó", "version": "1.6", "release_date": "20101127", "ltr": false }, "geometry": { "type": "Point", "coordinates": [ -70.334472656249986, -27.357131851125803 ] } },
+{ "type": "Feature", "properties": { "name": "Wrocław", "version": "1.7", "release_date": "20110619", "ltr": false }, "geometry": { "type": "Point", "coordinates": [ 17.0343017578125, 51.110419910292642 ] } },
+{ "type": "Feature", "properties": { "name": "Lisboa", "version": "1.8", "release_date": "20120621", "ltr": false }, "geometry": { "type": "Point", "coordinates": [ -9.13787841796875, 38.708821421436397 ] } },
+{ "type": "Feature", "properties": { "name": "Dufour", "version": "2.0", "release_date": "20130908", "ltr": false }, "geometry": { "type": "Point", "coordinates": [ 7.867056, 45.936833 ] } },
+{ "type": "Feature", "properties": { "name": "Valmiera", "version": "2.2", "release_date": "20140222", "ltr": false }, "geometry": { "type": "Point", "coordinates": [ 25.420818328857418, 57.539693195332482 ] } },
+{ "type": "Feature", "properties": { "name": "Chugiak", "version": "2.4", "release_date": "20140627", "ltr": false }, "geometry": { "type": "Point", "coordinates": [ -149.481944, 61.388889 ] } },
+{ "type": "Feature", "properties": { "name": "Brighton", "version": "2.6", "release_date": "20141101", "ltr": false }, "geometry": { "type": "Point", "coordinates": [ -0.141105651855469, 50.821770303359749 ] } },
+{ "type": "Feature", "properties": { "name": "Wien", "version": "2.8", "release_date": "20150220", "ltr": true }, "geometry": { "type": "Point", "coordinates": [ 16.367568969726562, 48.210489702189072 ] } },
+{ "type": "Feature", "properties": { "name": "Pisa", "version": "2.10", "release_date": "20150626", "ltr": false }, "geometry": { "type": "Point", "coordinates": [ 10.401649475097656, 43.716031017652014 ] } },
+{ "type": "Feature", "properties": { "name": "Lyon", "version": "2.12", "release_date": "20151023", "ltr": false }, "geometry": { "type": "Point", "coordinates": [ 4.83123779296875, 45.757463386206155 ] } },
+{ "type": "Feature", "properties": { "name": "Essen", "version": "2.14", "release_date": "20160229", "ltr": true }, "geometry": { "type": "Point", "coordinates": [ 7.00927734375, 51.458285490618081 ] } },
+{ "type": "Feature", "properties": { "name": "Nødebo", "version": "2.16", "release_date": "20160708", "ltr": false }, "geometry": { "type": "Point", "coordinates": [ 12.348889, 55.979167 ] } },
+{ "type": "Feature", "properties": { "name": "Las Palmas", "version": "2.18", "release_date": "20161021", "ltr": true }, "geometry": { "type": "Point", "coordinates": [ -15.437850952148439, 28.132852625597838 ] } },
+{ "type": "Feature", "properties": { "name": "Girona", "version": "3.0", "release_date": "20180223", "ltr": false }, "geometry": { "type": "Point", "coordinates": [ 2.818679809570312, 41.979528067171991 ] } },
+{ "type": "Feature", "properties": { "name": "Bonn", "version": "3.2", "release_date": "20180622", "ltr": false }, "geometry": { "type": "Point", "coordinates": [ 7.099571228027344, 50.736889704957058 ] } },
+{ "type": "Feature", "properties": { "name": "Madeira", "version": "3.4", "release_date": "20181026", "ltr": true }, "geometry": { "type": "Point", "coordinates": [ -16.979370117187496, 32.759562025650126 ] } },
+{ "type": "Feature", "properties": { "name": "Noosa", "version": "3.6", "release_date": "20190222", "ltr": false }, "geometry": { "type": "Point", "coordinates": [ 153.088560104370117, -26.397020849956952 ] } }
+]
+}
